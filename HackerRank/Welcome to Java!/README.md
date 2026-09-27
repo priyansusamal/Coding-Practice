@@ -2,8 +2,8 @@
 
 Platform: HackerRank  
 Difficulty: Practice  
-Language: Java 7  
-Problem Link: https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true  
+Language: Python  
+Problem Link: https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=solved&badge_type=java  
 Submitted At: 2026-09-27
 
 ---
