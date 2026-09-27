@@ -3,7 +3,7 @@
 Platform: HackerRank  
 Difficulty: Practice  
 Language: Java 7  
-Problem Link: https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true  
+Problem Link: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true  
 Submitted At: 2026-09-27
 
 ---
