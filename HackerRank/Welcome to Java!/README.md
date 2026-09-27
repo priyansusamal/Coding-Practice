@@ -2,8 +2,8 @@
 
 Platform: HackerRank  
 Difficulty: Practice  
-Language: Python  
-Problem Link: https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=solved&badge_type=java  
+Language: Java 7  
+Problem Link: https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true  
 Submitted At: 2026-09-27
 
 ---
